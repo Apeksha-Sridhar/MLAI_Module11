@@ -8,8 +8,8 @@ Here is the link to the Jupyter notebook:
 The goal of this project is to help dealerships to fine tune their inventory for used cars depending on the price of the car.
 
 ## Dataset and Notebook
-The link to the dataset is:
-The link to the Jupyter Notebook is:
+The link to the dataset is: https://github.com/Apeksha-Sridhar/MLAI_Module11/blob/main/data.zip
+The link to the Jupyter Notebook is: https://github.com/Apeksha-Sridhar/MLAI_Module11/blob/main/PA_11.ipynb
 
 ## Findings 
 
