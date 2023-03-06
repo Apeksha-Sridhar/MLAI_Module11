@@ -17,3 +17,11 @@ The link to the Jupyter Notebook is: https://github.com/Apeksha-Sridhar/MLAI_Mod
 2. There is a U-shaped pattern of price with year. More specifically, car prices increase as the model goes from 1950-1960 and then decrease again as it goes to 1970. It again has a positive trend from 1980 onwards. In summary, cars between 1955-1965 and cars after 1990 have a higher sale value.
 3. The pick ups and trucks sell for the highest price while minivans and hatchbacks sell for the lowest price.
 4. Diesel cars sell for the greatest price, while hybrid used cars sell for the lowest price.
+
+## Recommendations
+
+My recomendations based on the findings are that to not spend too much money on the repainting the color of the car as that is not an important feature of the price. Instead, spend resources to acquire diesel cars and pickup trucks as they would sell for the highest cost. 
+
+## Next Steps
+
+We could make futher predictions about the price of a car if, for example, we also knew the availibility of each part. It would be good to know if low availibilty is making the price go high, or if it is just the quality of the part, or the status of it. 
